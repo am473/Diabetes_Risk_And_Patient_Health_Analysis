@@ -42,7 +42,8 @@ The goal of this project is to demonstrate how healthcare data can be visualized
 
 ## 📸 Dashboard Preview
 
-<img width="1072" height="872" alt="image" src="https://github.com/user-attachments/assets/f42aab46-97ee-40eb-82a4-1577d66d905a" />
+<img width="1371" height="732" alt="image" src="https://github.com/user-attachments/assets/44ad0562-9bf9-4922-a4ab-6f5b69ff14d9" />
+
 
 
 ## 🔮 Future Improvements
